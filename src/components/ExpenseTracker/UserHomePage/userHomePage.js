@@ -46,11 +46,10 @@ function UserHomePage() {
           style={{
             width: "200px",
             margin: "2%",
-            marginLeft: "42%",
             marginTop: "9%",
             marginLeft: "85%",
             position: "relative",
-            backgroundColor: budgetColor == "positive" ? "green" : "maroon",
+            backgroundColor: budgetColor === "positive" ? "green" : "maroon",
           }}
         >
           {budgetData}

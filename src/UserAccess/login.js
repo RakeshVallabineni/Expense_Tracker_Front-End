@@ -3,7 +3,7 @@ import TextField from "@mui/material/TextField";
 import axios from "axios";
 import { useState } from "react";
 import "./login.css";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 function Login({ checkStatus }) {
   const [gmail, setGmail] = useState("");
