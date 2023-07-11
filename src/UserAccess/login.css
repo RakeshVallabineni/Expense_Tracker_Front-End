@@ -1,0 +1,22 @@
+.form {
+    margin-left: 35%;
+    border: 2px solid black;
+    margin-top: 10%;
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.TextField {
+    width: 300px;
+}
+
+#Grid {
+    margin-left: 10%;
+    margin-top: 6%;
+}
+
+#submit {
+    margin-left: 20%;
+}

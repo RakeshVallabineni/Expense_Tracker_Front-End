@@ -1,0 +1,22 @@
+.HomeUi {
+    text-align: center;
+    margin-top: 5%;
+}
+
+button {
+    margin-top: 3%;
+    background-color: orange;
+    width: 20%;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 50%;
+    border: 3px solid orange;
+}
+
+button:hover {
+    background-color: rgb(245, 187, 80);
+}
+
+#button {
+    padding: 10px 10px;
+}
